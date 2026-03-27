@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="justify">Degree Final Year Project - Student Sentiment Analysis In Social Media: A Monitoring Tool for Student Satisfaction</h1>
 
 ###
